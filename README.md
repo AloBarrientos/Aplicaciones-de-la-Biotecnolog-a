@@ -1,6 +1,8 @@
 # Aplicaciones de la Biotecnologia en Obstetricia.
 El campo de la Obstetricia ha experimentado una revolución gracias a los avances de la Biotecnología Roja (aplicaciones en salud humana). Estas herramientas moleculares y genéticas han pasado de ser meros instrumentos de investigación a convertirse en pilares fundamentales para el diagnóstico, la prevención y, en el futuro, el tratamiento de complicaciones durante el embarazo y de enfermedades fetales.
-![Biotecnologia Roja](asset/biotec.png)
+<p align="center">
+    <img src="asset/biotec.png" alt="Biotecnologia Roja" width="80%">
+</p>
 
 El campo de la **Obstetricia** ha experimentado una revolución gracias a los avances de la **Biotecnología Roja** (aplicaciones en salud humana). Estas herramientas moleculares y genéticas han pasado de ser meros instrumentos de investigación a convertirse en pilares fundamentales para el **diagnóstico**, la **prevención** y, en el futuro, el **tratamiento** de complicaciones durante el embarazo y de enfermedades fetales.
 
@@ -30,6 +32,9 @@ El Test Prenatal No Invasivo (NIPT) ha transformado la práctica obstétrica al 
 | **Cromosomas Sexuales** | Puede detectar aneuploidías de los cromosomas sexuales (como el Síndrome de Turner y Klinefelter) y el sexo fetal. |
 | **Ventaja clave** | El test tiene una precisión superior al 99% para estas condiciones y no genera riesgo para la madre ni para el bebé, a diferencia de pruebas invasivas como la amniocentesis.
 
+<p align="center">
+    <img src="asset/noinva.jpg" alt="No invasiva" width="80%">
+</p>
 ---
 
 ## 2. Diagnóstico Genético Preimplantacional (PGT/DGP)
@@ -47,7 +52,9 @@ El PGT (Preimplantation Genetic Testing) es una técnica biotecnológica de sele
 ### Impacto Obstétrico
 
 La aplicación del PGT reduce significativamente las tasas de aborto espontáneo y aumenta las tasas de embarazo viable por transferencia, ya que solo se seleccionan embriones cromosómicamente normales.
-
+<p align="center">
+    <img src="asset/preimpla.png" alt="Preimplantacional">
+</p>
 ---
 
 ## 3. Terapia Fetal Avanzada 
@@ -57,3 +64,6 @@ La biotecnología roja mira hacia el futuro con la posibilidad de tratar enferme
 * **Terapia Génica Intrauterina:** Consiste en la transferencia de material genético a las células del feto (a menudo usando vectores virales) para corregir el gen defectuoso que causa una enfermedad hereditaria.
     * **Avances:** Se han reportado casos exitosos en modelos animales (ratones y conejillos de indias) para corregir problemas como el retraso de crecimiento fetal o enfermedades del neurodesarrollo.
     * **Primeros Casos Humanos:** Aunque es experimental y enfrenta dilemas éticos, esta técnica es prometedora para curar o paliar enfermedades graves antes del nacimiento.
+<p align="center">
+    <img src="asset/terapiafeto.jpg" alt="Terapia Fetal">
+</p>
