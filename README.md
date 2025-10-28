@@ -12,7 +12,6 @@ Esta documentación explora cómo la biotecnología moderna ofrece soluciones de
 2.  **Diagnóstico Genético Preimplantacional (PGT/DGP).**
 3.  **Terapias Emergentes (In Utero).**
 
----
 
 ## 1. Diagnóstico Prenatal No Invasivo (NIPT)
 
@@ -35,7 +34,6 @@ El Test Prenatal No Invasivo (NIPT) ha transformado la práctica obstétrica al 
 <p align="center">
     <img src="asset/noinva.jpg" alt="No invasiva" width="80%">
 </p>
----
 
 ## 2. Diagnóstico Genético Preimplantacional (PGT/DGP)
 
@@ -55,7 +53,6 @@ La aplicación del PGT reduce significativamente las tasas de aborto espontáneo
 <p align="center">
     <img src="asset/preimpla.png" alt="Preimplantacional">
 </p>
----
 
 ## 3. Terapia Fetal Avanzada 
 
